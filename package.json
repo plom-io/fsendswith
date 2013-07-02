@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/plom-io/fsendwith.git"
+    "url": "git://github.com/plom-io/fsendswith.git"
   },
   "keywords": [
     "fs",
@@ -17,6 +17,6 @@
   "author": "Sebastien Ballesteros",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/plom-io/fsendwith/issues"
+    "url": "https://github.com/plom-io/fsendswith/issues"
   }
 }
