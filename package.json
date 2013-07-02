@@ -1,5 +1,5 @@
 {
-  "name": "fsendwith",
+  "name": "fsendswith",
   "version": "0.0.0",
   "description": "Check if a file ends with a given utf-8 string.",
   "main": "index.js",
