@@ -1,0 +1,22 @@
+{
+  "name": "fsendwith",
+  "version": "0.0.0",
+  "description": "Check if a file ends with a given utf-8 string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plom-io/fsendwith.git"
+  },
+  "keywords": [
+    "fs",
+    "utf8"
+  ],
+  "author": "Sebastien Ballesteros",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/plom-io/fsendwith/issues"
+  }
+}
