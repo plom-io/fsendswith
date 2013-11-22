@@ -8,15 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/plom-io/fsendswith.git"
+    "url": "git://github.com/sballesteros/fsendswith.git"
   },
   "keywords": [
     "fs",
     "utf8"
   ],
   "author": "Sebastien Ballesteros",
-  "license": "BSD",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plom-io/fsendswith/issues"
+    "url": "https://github.com/sballesteros/fsendswith/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
   }
 }

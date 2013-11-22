@@ -3,6 +3,7 @@ fsendswith
 
 Check if a file ends with a given utf-8 string.
 
+[![NPM](https://nodei.co/npm/fsendswith.png)](https://nodei.co/npm/fsendswith/)
 
 Install
 =======
@@ -10,7 +11,6 @@ Install
 with npm do:
 
     npm install fsendswith
-
 
 Usage
 =====
@@ -26,3 +26,8 @@ Tests
 =====
 
     npm test
+
+License
+=======
+
+MIT

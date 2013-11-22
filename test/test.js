@@ -4,7 +4,7 @@ var assert = require('assert')
 
 var root = path.dirname(__filename);
 
-describe('endwith', function(){
+describe('endswith', function(){
 
   it('should return false', function(done){
     endswith(path.join(root, 'trace_375.csv'), '\n', function(err, ok){
